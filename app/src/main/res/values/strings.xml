@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cevaplar</string>
+
+    <string-array name="cevap">
+        <item>HAREKETE GEÇERSEN DURUMU İYİLEŞTİREBİLİRSİN</item>
+        <item>BU KONUDA ÇOK EMİN OLMA</item>
+        <item>CESURCA DAVRAN</item>
+        <item>BU İŞİ BİLENLERİN ÖNERİLERİNDEN FAYDALAN</item>
+        <item>KENDİNİ ÖDÜN VEREMEYECEK BİR DURUMDA BULABİLİRSİN</item>
+        <item>EV YAŞAMINA DAHA FAZLA ZAMAN AYIR</item>
+        <item>ÖNCE DURUMU DEĞERLENDİR, SONRA KEYFİNİ ÇIKAR</item>
+        <item>HİÇ TEREDDÜT ETME</item>
+        <item>BU, HİÇBİR ZAMAN TAHMİN EDİLEMEZ</item>
+        <item>KESİNLİKLE OLMAZ</item>
+        <item>ÖNYARGISIZ BİR ŞEKİLDE ARAŞTIR</item>
+        <item>BUNDAN EMİN OLABİLİRSİN</item>
+        <item>BEKLEMEK EN İYİSİ</item>
+        <item>BU İŞİN OLMASI KESİN GİBİ GÖRÜNÜYOR</item>
+        <item>GECİKMEDEN YAP</item>
+        <item>BU KONUYU KİMSEYE AÇMA</item>
+        <item>BEKLENMEDİK ŞEYLERLE KARŞILAŞABİLİRSİN</item>
+        <item>BEKLEDİĞİN CEVAP FARKLI BİR YOLDAN GELEBİLİR</item>
+        <item>ALIŞMAN GEREKECEK</item>
+        <item>BUNDAN KUŞKU DUY</item>
+        <item>BU, SANA ŞANS GETİRECEK</item>
+        <item>SABIRLI OL</item>
+        <item>SONUNDA, BİLMEN GEREKEN HER ŞEYİ ÖĞRENECEKSİN</item>
+        <item>BU, BÜYÜK ÖLÇÜDE BAŞKA BİR KONUYA BAĞLI</item>
+        <item>BEKLE VE NE OLACAĞINI GÖR</item>
+        <item>BU, BAŞKALARININ SENİN HAKKINDAKİ DÜŞÜNCELERİNİ ETKİLEYECEKTİR</item>
+        <item>YAPTIĞIN İÇİN MUTLU OLACAKSIN</item>
+        <item>İŞİNİ SAĞLAMA BAĞLA</item>
+        <item>ŞU AN İÇİN UYGUN OLMAYABİLİR</item>
+        <item>DAHA İYİSİ İÇİN ELİNDEN GELENİ YAP</item>
+        <item>SANA SÖYLENDİĞİ GİBİ YAP</item>
+        <item>YA DOĞRUSUNU YAP YA DA HİÇ YAPMA</item>
+        <item>ŞU AN DAHA FAZLASINI İSTEME</item>
+        <item>İLK AKLINA GELENİ YAPMA</item>
+        <item>SON SÖZÜ SEN SÖYLEYECEKSİN</item>
+        <item>ACELE ETMEDEN İLERLE</item>
+    </string-array>
+
+</resources>
